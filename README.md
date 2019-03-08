@@ -23,5 +23,9 @@
 - [징계/제재 정책](docs/security_disciplinary_action.md)
 - [Q & A](docs/qna.md)
 
+## 담당자
+- 보안담당자 : 
+- 회사번호 : +82-02-512-7520
+
 ## 작성기준
 https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices
