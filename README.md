@@ -12,7 +12,7 @@
 - [ ] [서버](docs/server.md)
 - [ ] [클라이언트 PC](docs/clientpc.md)
 - [ ] [클라우드 정책](docs/cloud.md)
-- [ ] 패스워드 정책
+- [ ] [패스워드 정책](docs/password.md)
 - [ ] [Codename](docs/codename.md) : 협력업체, 프로젝트 코드명 정책
 - [ ] [방문객 보안](docs/guest.md)
 - [ ] QnA
