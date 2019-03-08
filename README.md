@@ -20,5 +20,5 @@
 - [Codename](docs/codename.md) : 협력업체, 프로젝트 코드명 정책
 - [방문객 보안](docs/guest.md)
 - [사고대응 정책](docs/security_incident_response.md)
-- [징계/제재 정책](security_disciplinary_action.md)
+- [징계/제재 정책](docs/security_disciplinary_action.md)
 - [QnA](docs/qna.md)
