@@ -17,7 +17,7 @@
 - [클라이언트 PC](docs/clientpc.md)
 - [클라우드 정책](docs/cloud.md)
 - [패스워드 정책](docs/password.md)
-- [Codename](docs/codename.md) : 협력업체, 프로젝트 코드명 정책
+- [코드네임 정책](docs/codename.md) : 협력업체, 프로젝트 코드명 정책
 - [방문객 보안](docs/guest.md)
 - [사고대응 정책](docs/security_incident_response.md)
 - [징계/제재 정책](docs/security_disciplinary_action.md)
