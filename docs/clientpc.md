@@ -24,3 +24,6 @@ MPAA 보안규칙 : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 ## 사내 iPad
 - 암호 + 지문인식을 사용합니다.
 - 이 장비를 가지고 퇴근할 수 없습니다.
+
+## 노트북
+- USB 포트등에 씰을 붙혀서 사용합니다. : http://koreaseals.com/product_detail.php?no=70
