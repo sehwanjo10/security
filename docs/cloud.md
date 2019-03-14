@@ -21,4 +21,4 @@ MPAA 관련규칙 : MS-4.0(사업연속성), MS-6.0(사업연속성, 재해복�
 
 ## 클라우드 Log
 - Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)
-- 스토리지에 저장되느 데이터는 [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
+- 스토리지에 저장되는 데이터는 [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
