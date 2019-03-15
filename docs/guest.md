@@ -27,7 +27,7 @@ MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 - [방문객 양식 다운로드](../pdf/visitor_table.pdf)
 
 ## 핸드폰 카메라 씰 구매
-- http://koreaseals.com
+- http://koreaseals.com/product_detail.php?no=69
 
 ## 참고사항
 - 방문객 정보란에 표기된 각 항목의 영문표기는 AWS DynamoDB Attribute로 사용할 수 있는 키워드로 작성되어 있습니다. 추후 서류가 아닌 DB로 시스템을 변경시 영문표기를 그대로 사용합니다.
