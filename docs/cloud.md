@@ -17,9 +17,9 @@ MPAA 관련규칙 : MS-4.0(사업연속성), MS-6.0(사업연속성, 재해복�
 - 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
 
 ## 프로젝트 백업
-- 프로젝트가 종료되면 완료된 데이터는 클라우드로 백업합니다.
+- 프로젝트가 종료되면 완료된 데이터는 클라우드(AWS Glacier)로 백업합니다.
 - 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
 
 ## 클라우드 Log
 - Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)
-
+- 스토리지에 저장되는 데이터는 [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
