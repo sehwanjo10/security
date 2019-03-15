@@ -6,11 +6,7 @@
 1. 한글문서를 기준으로 필요시 같은 문서의 이름으로 영어(en),중국어(ch),일본어(jp)문서를 생성합니다.
 
 ## 보안정책
-- [기밀유지 보안서약서](docs/nda.md)
-	- [보안서약서 - 고용자](docs/security_pledge_employ.md)
-	- [보안서약서 - 퇴사자](docs/security_pledge_leave.md)
-	- [보안서약서 - 협력업체](docs/security_pledge_partners.md)
-	- [보안서약서 - 외부용역](docs/security_pledge_service.md)
+- [기밀유지협약](docs/nda.md)
 - [인터넷,무선정책](docs/internet.md)
 - [모바일 장치정책](docs/mobile.md)
 - [네트워크](docs/network.md)
