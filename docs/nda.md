@@ -90,7 +90,7 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 1. PDF 스켄본을 다시 발송합니다.
 
 ## 양식 다운로드
-- [보안서약서 - 고용자](../pdf/nda_employ.pdf)
-- [보안서약서 - 퇴사자](../pdf/nda_leave.pdf)
-- [보안서약서 - 협력업체](../pdf/nda_partners.pdf)
-- [보안서약서 - 외부용역](../pdf/nda_service.pdf)
+- [ ] [보안서약서 - 고용자](../pdf/nda_employ.pdf)
+- [ ] [보안서약서 - 퇴사자](../pdf/nda_leave.pdf)
+- [ ] [보안서약서 - 협력업체](../pdf/nda_partners.pdf)
+- [ ] [보안서약서 - 외부용역](../pdf/nda_service.pdf)
