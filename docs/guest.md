@@ -26,6 +26,9 @@ MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 - 프로젝트와 밀접한 관련이 있지만 정보가 없는 첫 방문자는 사진이 있는 신분증으로 신분확인을 합니다.
 - [방문객 양식 다운로드](../pdf/visitor_table.pdf)
 
+## 씰 부착예시
+![seal_example](../figures/seal_example.png)
+
 ## 핸드폰 카메라 씰 구매
 - http://koreaseals.com/product_detail.php?no=69
 
