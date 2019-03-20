@@ -9,6 +9,7 @@ MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 	- 방문자 이름(visitor_name)
 	- 방문 대상(visited_to)
 	- 회사/소속(company)
+	- 씰번호(seal_number)
 	- 차량번호(vehicle_number)
 	- 방문 목적(visit_subject)
 	- 방문객 서명(visitor_sign)
