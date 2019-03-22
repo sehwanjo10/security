@@ -37,7 +37,7 @@ Passwords for all individual account shall require:
 
 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
 
-## 클라우드 Log 정책 / Cloud Log Policy
+## 클라우드 Logs 정책 / Cloud Logs Policy
 Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)<br />
 Log is storaged 12 months on the basis of MPAA. (MPAA-related Rule : PS-16.2)
 
