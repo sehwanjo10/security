@@ -12,9 +12,9 @@ The Company shall apply individual security policy for each user.
 
 모든 계정의 암호는 대문자, 소문자, 숫자, 특수문자를 포함한 8자 암호 + MFA(이중인증시스템)으로 로그인할 수 있습니다.<br />
 Passwords for all individual account shall require:
-    - eight(8) characters
-    - combination of english upper case letters, english lower case letters, numbers and special symbol.
-    - MFA(Multi-Factor Authentication)
+- eight(8) characters
+- combination of english upper case letters, english lower case letters, numbers and special symbol.
+- MFA(Multi-Factor Authentication)
 
 - 클라이언트의 경우 최대 90일까지 사용가능한 계정을 발급합니다.
 - 해당 프로젝트가 종료되면 외부 관계자의 계정을 협의후 제거합니다.
