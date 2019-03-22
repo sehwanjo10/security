@@ -32,4 +32,4 @@ MPAA-related Rule : MS-4.0(Business Continuity), MS-6.0(Business Continuity, Dis
 Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)<br />
 Log is storaged 12 months on the basis of MPAA. (MPAA-related Rule : PS-16.2)
 
-스토리지에 저장되는 데이터는 [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
+스토리지에 저장되는 데이터는 AWS [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
