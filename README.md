@@ -33,6 +33,6 @@
 - 회사번호 : +82-02-512-7520
 
 ## 작성기준
-![](https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg | width=150)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">
 
 [MPAA Documentation](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices)
