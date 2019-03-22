@@ -10,7 +10,7 @@ MPAA-related Rule : MS-4.0(Business Continuity), MS-6.0(Business Continuity, Dis
 The Company shall apply individual security policy for each user.
 
 
-모든 계정의 암호는 대문자, 소문자, 숫자, 특수문자를 포함한 8자 이상의 암호 + MFA(이중인증시스템)으로 로그인할 수 있습니다.<br />
+모든 계정의 암호는 대문자, 소문자, 숫자, 특수문자를 포함한 8자 이상의 암호 + MFA(이중인증시스템)으로만 로그인할 수 있습니다.<br />
 Passwords for all individual account shall require:
 - letters of eight(8) or more characters
 - combination of english upper case letters, english lower case letters, numbers and special symbol.
