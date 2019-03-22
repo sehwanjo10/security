@@ -33,4 +33,6 @@
 - 회사번호 : +82-02-512-7520
 
 ## 작성기준
-https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices
+![mpaa_logo](https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg)
+
+[MPAA Documentation](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices)
