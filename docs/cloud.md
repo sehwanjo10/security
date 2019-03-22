@@ -29,7 +29,7 @@ MPAA-related Rule : MS-4.0(Business Continuity), MS-6.0(Business Continuity, Dis
 - 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
 
 ## 클라우드 Log / Cloud Log
-Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)
+Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)<br />
 Log is storaged 12 months on the basis of MPAA. (MPAA-related Rule : PS-16.2)
 
 스토리지에 저장되는 데이터는 [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
