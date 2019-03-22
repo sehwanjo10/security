@@ -13,7 +13,10 @@ MPAA-related Rule : MS-4.0(Business Continuity), MS-6.0(Business Continuity, Dis
 - 클라우드 권한이 있는 On-set 장비가 도난시 바로 관리자에게 연락하려 사용자 클라우드 키를 제거합니다.
 <br/>
 - The Company shall apply individual security policy for each user.
-- Accout may 
+- Passwords for all individual account shall require:
+    - eight(8) characters
+    - combination of english upper case letters, english lower case letters, numbers and special symbol.
+    - MFA(Multi-Factor Authentication)
 
 ## 퇴사자 / Retiree
 - 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 키를 제거합니다.
