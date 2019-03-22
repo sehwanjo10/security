@@ -21,7 +21,7 @@ Passwords for all individual account shall require:
 
 해당 프로젝트가 종료되면 외부 관계자의 계정을 협의후 제거합니다.
 
-클라우드 권한이 있는 On-set 장비가 도난시 바로 관리자에게 연락하여 사용자 클라우드 키를 제거합니다.
+클라우드 권한이 있는 On-set 장비가 도난시, 시스템 관리자에게 연락하여 사용자 클라우드 키를 즉시 제거합니다.
 
 
 ## 퇴사자 / Retiree
