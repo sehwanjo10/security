@@ -1,4 +1,4 @@
-# Security
+# Security policy
 
 1. 75mm Studio 보안정책 문서입니다.
 1. 이 리포지터리는 임직원, 협력업체의 보안 교육목적으로 공개 작성합니다.
