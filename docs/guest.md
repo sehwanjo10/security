@@ -30,7 +30,7 @@ MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 ## 씰 부착예시
 ![seal_example](../figures/seal_example.png)
 
-## 핸드폰 카메라 씰 구매
+## 핸드폰 카메라 씰 구매처
 - http://koreaseals.com/product_detail.php?no=69
 
 ## 방문객 Name Plate
