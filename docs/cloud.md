@@ -11,8 +11,9 @@ MPAA-related Rule : MS-4.0(Business Continuity), MS-6.0(Business Continuity, Dis
 - 클라이언트의 경우 최대 90일까지 사용가능한 계정을 발급합니다.
 - 해당 프로젝트가 종료되면 외부 관계자의 계정을 협의후 제거합니다.
 - 클라우드 권한이 있는 On-set 장비가 도난시 바로 관리자에게 연락하려 사용자 클라우드 키를 제거합니다.
-
-- 
+<br/>
+- The Company shall apply individual security policy for each user.
+- Accout may 
 
 ## 퇴사자 / Retiree
 - 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 키를 제거합니다.
@@ -28,3 +29,6 @@ MPAA-related Rule : MS-4.0(Business Continuity), MS-6.0(Business Continuity, Dis
 ## 클라우드 Log / Cloud Log
 - Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)
 - 스토리지에 저장되는 데이터는 [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
+<br/>
+- Log is storaged 12 months on the basis of MPAA. (MPAA-related Rule : PS-16.2)
+- 
