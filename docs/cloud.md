@@ -29,10 +29,12 @@ Passwords for all individual account shall require:
 
 ## 클라이언트 데이터 / Data of Client
 클라이언트가 문의한 작업데이터는 클라우드에 저장됩니다.
+
 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
 
 ## 프로젝트 백업 / Project Backup
 프로젝트가 종료되면 완료된 데이터는 클라우드(AWS Glacier)로 백업합니다.
+
 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
 
 ## 클라우드 Log / Cloud Log
