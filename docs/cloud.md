@@ -10,7 +10,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 - 모든 계정의 암호는 대문자, 소문자, 숫자, 특수문자를 포함한 8자 암호 + MFA(이중인증시스템)으로 로그인할 수 있습니다.
 - 클라이언트의 경우 최대 90일까지 사용가능한 계정을 발급합니다.
 - 해당 프로젝트가 종료되면 외부 관계자의 계정을 협의후 제거합니다.
-- 클라우드 권한이 있는 On-set 장비가 도난시 바로 관리자에게 연락하려 사용자 클라우드 키를 제거합니다.
+- 클라우드 권한이 있는 On-set 장비가 도난시 바로 관리자에게 연락하여 사용자 클라우드 키를 제거합니다.
 - The Company shall apply individual security policy for each user.
 - Passwords for all individual account shall require:
     - eight(8) characters
@@ -18,6 +18,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
     - MFA(Multi-Factor Authentication)
 - In the case of client, account is available only for a maximum of 90 days.
 - On the day of end of project, accounts of externel parties related to the project are removed upon the mutual consultation between the parties.
+- In the case of robbery of On-set devices that have cloud authority, Employer shall report to administrator immediately and remove cloud key.
 
 ## 퇴사자 / Retiree
 - 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 키를 제거합니다.
