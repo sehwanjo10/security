@@ -18,7 +18,7 @@ MPAA-related Rule : MS-4.0(Business Continuity), MS-6.0(Business Continuity, Dis
     - MFA(Multi-Factor Authentication)
 
 ## 퇴사자 / Retiree
-- 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 키를 제거합니다.
+- 퇴사발표 즉시 사용자 AWS IAM 키를 제거합니다.
 
 ## 클라이언트 데이터 / Data of Client
 - 클라이언트가 문의한 작업데이터는 클라우드에 저장됩니다.
