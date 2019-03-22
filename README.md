@@ -1,4 +1,4 @@
-# Security policy
+# 75mm Studio security policy
 
 75mm Studio 보안정책 문서입니다.
 
