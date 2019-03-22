@@ -11,7 +11,7 @@
 - [인터넷,무선정책](docs/internet.md)
 - [모바일 장치정책](docs/mobile.md)
 - [네트워크](docs/network.md)
-- [클라이언트 PC](docs/clientpc.md)
+- [내부 클라이언트 컴퓨터 정책](docs/clientpc.md)
 - [클라우드 정책](docs/cloud.md)
 - [패스워드 정책](docs/password.md)
 - [코드네임 정책](docs/codename.md)
